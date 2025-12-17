@@ -40,8 +40,8 @@ li {
 
 .footer-block img{
     width: 100px;
-    display: flex;
-    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .footer-block p{
